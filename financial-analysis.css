@@ -9,7 +9,7 @@ body {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
-    background-color: rgba(128,45,189,0.8);
+    background-color: rgba(12,45,189,0.8);
     box-shadow: 0 0 10px rgba(123,45,190, 0.2);
     border-radius: 8px;
     margin-top: 30px;
@@ -17,11 +17,10 @@ body {
 
 header {
     text-align: center;
-
     margin-bottom: 20px;background: linear-gradient(to right, rgb(67, 124, 205), rgb(69, 214, 202));
--webkit-background-clip: text;
+h1:{-webkit-background-clip: text;
 -webkit-text-fill-color: transparent;
-text-stroke: 2px white; /* Adjust the width and color of the border as needed */
+text-stroke: 2px white;} /* Adjust the width and color of the border as needed */
 
 }
 
