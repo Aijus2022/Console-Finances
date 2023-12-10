@@ -12,5 +12,6 @@ cd Console-Finances
 2.Live Demo.
 You can try out the Console Finances application online by visiting:
 https://aijus2022.github.io/Console-Finances/
-screenshots:here is the link to the screnshot of the app running on Google Chrome:
+screenshots:here is the link to the screnshot of the app running on Google Chrome on laptop computer :
 screenshots/console-finaces.png
+the link to the screenshot of the app running on Ipad:screenshots/50475D23-E818-4CC5-A9C2-0B9AD0D4B673.png
