@@ -11,3 +11,4 @@ git clone https://github.com/Aijus2022/Console-Finances/tree/main
 cd Console-Finances
 2.Live Demo.
 You can try out the Console Finances application online by visiting:
+https://aijus2022.github.io/Console-Finances/
