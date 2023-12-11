@@ -45,8 +45,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ![Screenshot 1](screenshots/console-finaces.png)
 The App running on Google Chrome on laptop.
 
-![Screenshot 2](screenshots/screenshot2.png)
-*Caption for Screenshot 2*
+![Screenshot 2](screenshots/50475D23-E818-4CC5-A9C2-0B9AD0D4B673.png)
+The App running on IPad
 
 
 
